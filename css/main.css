@@ -1,0 +1,6 @@
+body{}
+.banner { position:relative; left:50%; margin-left:-500px; width:1920px;}
+.mainbody {width: 1000px;margin:0 auto;margin-top:5px;border-top: 1px solid #e6e6e6;}
+.mainbodyleft {}
+.mainbodypic {float: left;margin-top: 5px;}
+.mainbodytext {float: left; padding:15px;}
