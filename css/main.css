@@ -1,6 +1,9 @@
 body{}
 .banner { position:relative; left:50%; margin-left:-500px; width:1920px;}
 .mainbody {width: 1000px;margin:0 auto;margin-top:5px;border-top: 1px solid #e6e6e6;}
-.mainbodyleft {}
-.mainbodypic {float: left;margin-top: 5px;}
-.mainbodytext {float: left; padding:15px;}
+.mainbodyleft {float:left;width: 690px;}
+.mainbodypic {float:left;margin-top: 5px;}
+.mainbodytext {margin-top:5px;padding-left:20px;padding-right:10px;overflow: hidden;}
+.mainbodytext h2{text-align:center;font:400 20px/26px 'Microsoft Yahei','微软雅黑','Simhei','黑体';}
+.mainbodytext p{margin-top:10px;line-height: 24px;}
+.mainbodyright {float:left;width:300px;padding-left:5px;margin-top: 5px;border-left: 1px solid #e6e6e6}
