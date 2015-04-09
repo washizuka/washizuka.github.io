@@ -1,5 +1,5 @@
-body{}
-.banner { position:relative; left:50%; margin-left:-500px; width:1920px;}
+body{background: url(../images/background.jpg) no-repeat;background-position:center top}
+.banner {height: 650px;}
 .mainbody {width: 1000px;margin:0 auto;margin-top:5px;border-top: 1px solid #e6e6e6;}
 .mainbodyleft {float:left;width: 690px;}
 .mainbodypic {float:left;margin-top: 5px;}
