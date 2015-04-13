@@ -20,7 +20,7 @@ body{background: url(../images/background.jpg) no-repeat;background-position:cen
   a:focus{outline:none;}
   .clearfix{zoom:1;}
   .clearfix:after{clear:both;content:".";display:block;height:0;visibility:hidden;}
-
+  .banner{background: url(../images/kidsbanner.jpg) no-repeat top center;}
 
   .header, .banner, .footer{
     width: 100%;
@@ -31,7 +31,7 @@ body{background: url(../images/background.jpg) no-repeat;background-position:cen
     overflow: hidden;
   }
   .banner{
-    height: 600px;
+    height: 650px;
   }
   .content{
     width: 1000px;
@@ -43,12 +43,12 @@ body{background: url(../images/background.jpg) no-repeat;background-position:cen
     border-right: solid 1px #ccc;
   }
   .cl-items{
-    width: 100%; height: 320px;
+    width: 100%; height: 200px;
     margin: 0 0 20px 0;
   }
   .cli-pic{
     float: left;
-    width: 240px; height: 320px;
+    width: 250px; height: 200px;
     overflow: hidden;
     background-color: gray;
   }
@@ -72,7 +72,7 @@ body{background: url(../images/background.jpg) no-repeat;background-position:cen
     padding-left: 20px;
   }
   .cr-items{
-    width: 280px; height: 320px;
+    width: 300px; height: 350px;
     overflow: hidden;
     background-color: yellow;
     margin: 0 0 20px 0;
