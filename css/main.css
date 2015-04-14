@@ -1,4 +1,5 @@
-body{background: url(../images/background.jpg) no-repeat;background-position:center top}
+/*body{background: url(../images/background.jpg) no-repeat;background-position:center top}*/
+body{background: url(../images/蓝色背景-009.gif) repeat;}
 <style>
   @charset "utf-8";
   html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img{margin:0;padding:0;font-weight:normal;}
@@ -33,9 +34,13 @@ body{background: url(../images/background.jpg) no-repeat;background-position:cen
   .banner{
     height: 650px;
   }
+  .stick{
+    margin-top: 680px;
+  }
   .content{
     width: 1000px;
     margin: 0 auto;
+    margin-top: 20px;
   }
   .cont-left{
     width: 699px;
