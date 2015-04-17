@@ -21,7 +21,7 @@ body{background: url(../images/蓝色背景-009.gif) repeat;}
   a:focus{outline:none;}
   .clearfix{zoom:1;}
   .clearfix:after{clear:both;content:".";display:block;height:0;visibility:hidden;}
-  .banner{background: url(../images/kidsbanner.jpg) no-repeat top center;}
+  .banner{background: url(../images/kidsbanner.png) no-repeat top center;}
 
   .header, .banner, .footer{
     width: 100%;
@@ -34,13 +34,10 @@ body{background: url(../images/蓝色背景-009.gif) repeat;}
   .banner{
     height: 650px;
   }
-  .stick{
-    margin-top: 680px;
-  }
+  
   .content{
     width: 1000px;
     margin: 0 auto;
-    margin-top: 20px;
   }
   .cont-left{
     width: 699px;
@@ -74,7 +71,7 @@ body{background: url(../images/蓝色背景-009.gif) repeat;}
   }
   .cont-right{
     overflow: hidden;
-    padding-left: 20px;
+    padding-left: 10px;
   }
   .cr-items{
     width: 300px; height: 350px;
